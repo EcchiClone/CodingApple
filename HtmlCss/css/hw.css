@@ -1,3 +1,7 @@
+@font-face {
+    font-family: ;
+    src: url();
+}
 div,input,textarea{
     box-sizing: border-box;
 }
@@ -18,4 +22,11 @@ div,input,textarea{
     font-size:15px;
     border: 1px solid black;
     border-radius: 5px;
+}
+.test{
+    font-family: 'Nanum Gothic';
+    font-weight: 700;
+}
+@media screen and (max-width:1200px){
+
 }
